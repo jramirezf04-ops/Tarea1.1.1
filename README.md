@@ -55,3 +55,7 @@ Esto sería el segundo párrafo.
 
 Una línea.  
 La siguiente línea.
+
+### Citas y comentarios
+> Esto sería una cita.
+<!-- Esto sería un comentario -->
