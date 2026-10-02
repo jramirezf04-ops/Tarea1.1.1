@@ -60,3 +60,4 @@ La siguiente línea.
 > Esto sería una cita.
 <!-- Esto sería un comentario -->
 ### Enlace a otro makdown
+[Enlace a otro documento](markdown.md)
